@@ -95,4 +95,4 @@ This dashboard enables stakeholders to:
 
 ### 📢 Let's Connect
 
-If you found this project interesting or want to collaborate, feel free to connect with me on LinkedIn 🚀
+If you found this project interesting or want to collaborate, feel free to connect with me 🚀
