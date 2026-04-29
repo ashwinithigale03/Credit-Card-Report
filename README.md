@@ -64,7 +64,7 @@ This project covers the complete analytics workflow — from data extraction to 
 
 ![dashboard_snapo](https://github.com/ashwinithigale03/Credit-Card-Report/raw/main/Credit%20Card%20Report2.png)
 
-📄 [View Full Report](https://github.com/ashwinithigale03/Credit-Card-Report/raw/main/Credit%20Card%20Report.pdf)
+### Download Report📄 [View Full Report](https://github.com/ashwinithigale03/Credit-Card-Report/raw/main/Credit%20Card%20Report.pdf)
 
 ### 📂 Project Workflow
 
