@@ -84,7 +84,7 @@ This project covers the complete analytics workflow — from data extraction to 
 - Business Insight Generation
 - End-to-End Analytics Workflow
 
-### 📌 🎯 Business Impact
+### 📌 Business Impact
 
 This dashboard enables stakeholders to:
 
