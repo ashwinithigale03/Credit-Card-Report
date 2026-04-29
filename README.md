@@ -75,7 +75,7 @@ This project covers the complete analytics workflow — from data extraction to 
 - Designing interactive dashboard in Power BI
 - Generating actionable business insights
 
-### 🚀 📈 Key Skills Demonstrated
+### 📈 Key Skills Demonstrated
 
 - Data Cleaning & Transformation
 - Data Modeling & Relationships
